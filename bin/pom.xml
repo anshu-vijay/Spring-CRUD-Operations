@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javatpoint</groupId>
-	<artifactId>spring-boot-h2-database-example</artifactId>
+	<artifactId>spring-boot-crud-operation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-h2-database-example</name>
+	<name>spring-boot-crud-operation</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
